@@ -1,1 +1,1 @@
-javas	cript:[1].map(top['ale'+'rt'])
+javascript:[1].map(top['ale'+'rt'])
