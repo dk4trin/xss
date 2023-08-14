@@ -1,1 +1,1 @@
-javascript:[1].map(top['ale'+'rt'])
+alert(window.origin);
